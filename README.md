@@ -1,8 +1,11 @@
-# Module-4 Day-4 SEB
+# Module-4 Day-2 SEB
 ## AIM:
 To write a C program to input amount from user and print minimum number of notes (Rs. 500, 100, 50, 20, 10, 5, 2, 1) required for the amount.
 
 ## For example
+<img width="122" height="227" alt="image" src="https://github.com/user-attachments/assets/0d123722-feae-409d-aba2-d0617c2263eb" />
+
+## Program:
 ```c
 #include<stdio.h>
 int main(){
@@ -35,7 +38,7 @@ int main(){
     printf("1 = %d",n1);
     return 0;
 }
-## Program:
 ```
 
 ## Result:
+<img width="297" height="612" alt="image" src="https://github.com/user-attachments/assets/ede9cdb3-e016-4c94-93ca-75c6c5246cda" />
